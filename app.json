@@ -45,7 +45,7 @@
 
         "API_HASH": {
 
-            "description": "Your API_HASH from https://my.telegram.org/apps".
+            "description": "Your API_HASH from https://my.telegram.org/apps",
             "value":""
 
          },
@@ -56,7 +56,7 @@
 
       "value":"",
 
-      "required": true 
+      "required": false
 
         }
 
